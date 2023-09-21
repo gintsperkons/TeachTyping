@@ -1,0 +1,38 @@
+a {
+    font-weight: 700;
+    color: var(--link-color);
+    text-decoration: none;
+}
+
+a:active {
+    text-shadow: 0 0 5px white, 1px 1px 1px rgb(0 0 0 / 50%);
+}
+
+a:hover {
+    text-shadow: 0 0 5px white, 1px 1px 1px rgb(0 0 0 / 50%);
+}
+
+a:visited {
+    color: var(--link-visited-color);
+    text-decoration: none;
+}
+
+input {
+    width: 100%;
+}
+
+button {
+    color: var(--text-color-secondary);
+    background-color: var(--text-color-main);
+    font-weight: 900;
+    padding: 5px 20px;
+    background-color: none;
+    border: 1px solid var(--text-color-main);
+    border-radius: 5px;
+    font-size: 24px;
+}
+
+button:hover {
+    cursor: pointer;
+    box-shadow: 0 0 5px white;
+}

@@ -1,0 +1,28 @@
+:root {
+    /* --main-bg-color: linear-gradient(7deg, rgba(22, 22, 22, 1) 44%, rgba(38, 38, 38, 1) 85%, rgba(55, 55, 55, 1) 100%) fixed no-repeat; */
+    --main-bg-color: rgb(46, 53, 66);
+    --title-bg-color: rgb(255, 255, 255);
+    --link-color: rgb(255, 255, 255);
+    --link-bg-color: rgb(58, 58, 58);
+    --link-active-bg-color: rgb(0, 200, 255);
+    --link-hover-bg-color: rgb(0, 170, 206);
+    --button-bg-color: rgb(255, 255, 255);
+    --text-color-main: rgb(255, 255, 255);
+    --text-color-secondary: rgb(22, 22, 22);
+    --letter-active-bg-color: rgb(0, 200, 206);
+    --letter-active-border-color: rgb(0, 7, 206);
+    --lesson-active-color: 255, 255, 255;
+    --lesson-wrong-color: 255, 93, 93;
+    --lesson-correct-color: 132, 255, 116;
+    --lesson-fixed-color: 255, 216, 42;
+    --nav-text-color: rgb(46, 53, 66);
+    --title-text-color: rgb(46, 53, 66);
+    --keyboard-bg-color: rgb(231, 231, 231);
+    --lesson-bg-color: rgb(46, 53, 66);
+    --type-anim-f1-size: 40px;
+    --type-anim-f2-size: 35px;
+    --type-anim-f3-size: 50px;
+    --type-letter-box-size: 55px;
+    --type-letter-box-radius: 15px;
+    --type-letter-size: 40px;
+}

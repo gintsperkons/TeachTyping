@@ -1,0 +1,21 @@
+@import 'buttons.css';
+@import 'navbar.css';
+@import 'form.css';
+@import 'colors.css';
+@import 'lesson.css';
+@import 'lessonCard.css';
+@import 'home.css';
+@import 'admin.css';
+* {
+    /* border-style: solid;
+    border-color: red;
+    border-width: 1px; */
+    color: var(--text-color-main);
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    background: var(--main-bg-color);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
